@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-23T16:50:30.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="gFF4YoKkGCt5Emi8J_-1" version="21.6.8" type="device">
+<mxfile host="Electron" modified="2023-09-23T19:31:27.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="YX1Na_S6YekK6pjzl-su" version="21.6.8" type="device">
   <diagram name="Page-1" id="iw9HBjLqABTfdSqXGwMk">
-    <mxGraphModel dx="2044" dy="1197" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2920" dy="1710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
         <mxCell id="H5vm-Po7Uamn4ExQWBYj-1" value="Merci de remplir le formulaire de retours pour tous les commentaires que vous pourriez faire" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="113" y="251" width="354" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="H5vm-Po7Uamn4ExQWBYj-3" value="redimensionnement de la fenêtre" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="H5vm-Po7Uamn4ExQWBYj-3" value="redimensionnement de la fenêtre" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="5692" width="235" height="75" as="geometry" />
         </mxCell>
         <mxCell id="4Mnw6en9qDmpaSsgo7LY-7" style="edgeStyle=orthogonalEdgeStyle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;" parent="1" source="4Mnw6en9qDmpaSsgo7LY-1" target="4Mnw6en9qDmpaSsgo7LY-6" edge="1">
@@ -388,7 +388,7 @@
         <mxCell id="gGiwMx9QiMazWThnVali-17" value="SUITE..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="600.25" y="5926" width="261" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="T17EeEo3EBJF8xaT3HcU-1" value="&lt;a href=&quot;https://docs.google.com/forms/d/1zv2Fwn-2nT_-yPd92M44uSQxgPftN2-Xo-bl5oVsjmU/viewform?edit_requested=true&quot;&gt;Formulaire de retours&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="T17EeEo3EBJF8xaT3HcU-1" value="&lt;a href=&quot;https://docs.google.com/forms/d/1zv2Fwn-2nT_-yPd92M44uSQxgPftN2-Xo-bl5oVsjmU/viewform?edit_requested=true&quot; style=&quot;font-size: 20px;&quot;&gt;Formulaire de retours&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="124" y="427" width="321" height="62" as="geometry" />
         </mxCell>
       </root>
